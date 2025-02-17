@@ -1,2 +1,3 @@
-# C_learning
-My journey of C 
+# My journey of C Learning
+
+
